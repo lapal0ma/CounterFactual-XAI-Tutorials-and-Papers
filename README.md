@@ -10,6 +10,10 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
 ### Alibi [[repo](https://github.com/SeldonIO/alibi)]
 - Supported methods [[summary](https://github.com/SeldonIO/alibi#model-explanations)]
 
+## 📚 Survey paper
+- (arthur.ai) Counterfactual Explanations for Machine Learning: A Review [[paper](https://arxiv.org/pdf/2010.10596.pdf)]
+  - Evaluation of Counterfactual Generation Algorithms [[Google Sheet](https://docs.google.com/spreadsheets/d/15V7NOZQh4LQMkglLHtPvgcEQf_yaGNCfQHwG1zOFCz4/edit#gid=0)]
+
 ## 💡 Methods and works for different models
 ### Model-Agnostic Methods
 - DiCE [[example code](https://github.com/interpretml/DiCE/blob/master/docs/source/notebooks/DiCE_model_agnostic_CFs.ipynb)]
@@ -18,6 +22,11 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
   - Genetic algorithm 
 - CFRL by Seldon Alibi [[example code](https://docs.seldon.io/projects/alibi/en/latest/examples/cfrl_adult.html)] [[doc](https://docs.seldon.io/projects/alibi/en/latest/methods/CFRL.html)]
   - 🔥 Model-agnostic and Scalable Counterfactual Explanations via Reinforcement Learning [[paper](https://arxiv.org/pdf/2106.02597.pdf)]
+- (KDD 2021) Model-Based Counterfactual Synthesizer for Interpretation [[paper](https://arxiv.org/abs/2106.08971)]
+- CounteRGAN: Generating Realistic Counterfactuals with Residual Generative Adversarial Nets [[paper](https://arxiv.org/abs/2009.05199)]
+- (AAAI 2022) Amortized Generation of Sequential Algorithmic Recourses for Black-box Models[[paper](https://arxiv.org/pdf/2106.03962.pdf)] 
+- (AAAI 2022) Diverse, Global and Amortised Counterfactual Explanations for Uncertainty Estimates [[paper](https://arxiv.org/abs/2112.02646)]
+
 ### Gradient-Based Methods
 - CounterFactual (by Seldon Alibi) [[example code](https://docs.seldon.io/projects/alibi/en/latest/examples/cf_mnist.html)] [[doc](https://docs.seldon.io/projects/alibi/en/latest/methods/CF.html)]
   - Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR [[paper](https://arxiv.org/abs/1711.00399)] 
@@ -34,6 +43,8 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
 - KS Test
   -  🔥 Comprehensible Counterfactual Explanation on Kolmogorov-Smirnov Test  [[paper](http://vldb.org/pvldb/vol14/p1583-cong.pdf)] [[source code](https://github.com/research0610/MOCHE)]
 
+## 📺 Tutorials and PPT
+- Post-hoc counterfactual generation with supervised autoencoder [[ppt](https://project.inria.fr/aimlai/files/2021/09/XAI_ECML-final.pdf)]
 
-## Interdisciplinary Works Towards CFX
+## 👩‍🏫 Interdisciplinary Works Towards CFX
 - Adquate and Fair Explanations [[paper](https://arxiv.org/abs/2001.07578)]

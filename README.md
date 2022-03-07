@@ -11,7 +11,7 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
 - Supported methods [[summary](https://github.com/SeldonIO/alibi#model-explanations)]
 
 ## 📚 Survey paper
-- (arthur.ai) Counterfactual Explanations for Machine Learning: A Review [[paper](https://arxiv.org/pdf/2010.10596.pdf)]
+- (arthur.ai) Counterfactual Explanations for Machine Learning: A Review [[paper](https://arxiv.org/pdf/2010.10596.pdf)][[ppt](https://vsahil.github.io/publication/counterfactual-survey/slides_full_cfe_review.pdf)]
   - Evaluation of Counterfactual Generation Algorithms [[Google Sheet](https://docs.google.com/spreadsheets/d/15V7NOZQh4LQMkglLHtPvgcEQf_yaGNCfQHwG1zOFCz4/edit#gid=0)]
 
 ## 💡 Methods and works for different models
@@ -52,7 +52,7 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
 - KS Test
   -  🔥 Comprehensible Counterfactual Explanation on Kolmogorov-Smirnov Test  [[paper](http://vldb.org/pvldb/vol14/p1583-cong.pdf)] [[source code](https://github.com/research0610/MOCHE)]
 
-## 📺 Tutorials and PPT
+## 📺 Tutorials and Discussions
 - Post-hoc counterfactual generation with supervised autoencoder [[ppt](https://project.inria.fr/aimlai/files/2021/09/XAI_ECML-final.pdf)]
 - If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual XAI Techniques [[paper](https://arxiv.org/pdf/2103.01035.pdf)]
 ## 👩‍🏫 Interdisciplinary Works Towards CFX

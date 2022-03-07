@@ -22,9 +22,16 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
   - Genetic algorithm 
 - CFRL by Seldon Alibi [[example code](https://docs.seldon.io/projects/alibi/en/latest/examples/cfrl_adult.html)] [[doc](https://docs.seldon.io/projects/alibi/en/latest/methods/CFRL.html)]
   - 🔥 Model-agnostic and Scalable Counterfactual Explanations via Reinforcement Learning [[paper](https://arxiv.org/pdf/2106.02597.pdf)]
+- (Nips 2021) Designing Counterfactual Generators using Deep Model Inversion [[paper](https://proceedings.neurips.cc/paper/2021/file/8ca01ea920679a0fe3728441494041b9-Paper.pdf)]
+  - No need training data 
+- (Nips 2021) Towards Robust and Reliable Algorithmic Recourse [[paper](https://proceedings.neurips.cc/paper/2021/file/8ccfb1140664a5fa63177fb6e07352f0-Paper.pdf)]
+  - Data shifting
+  - Adversarial training 
 - (KDD 2021) Model-Based Counterfactual Synthesizer for Interpretation [[paper](https://arxiv.org/abs/2106.08971)]
 - CounteRGAN: Generating Realistic Counterfactuals with Residual Generative Adversarial Nets [[paper](https://arxiv.org/abs/2009.05199)]
 - (AAAI 2022) Amortized Generation of Sequential Algorithmic Recourses for Black-box Models[[paper](https://arxiv.org/pdf/2106.03962.pdf)] 
+  -  Algorithmic Recourses (AR) and sequential ARs
+  -  Reinforcement learning
 - (AAAI 2022) Diverse, Global and Amortised Counterfactual Explanations for Uncertainty Estimates [[paper](https://arxiv.org/abs/2112.02646)]
 
 ### Gradient-Based Methods

@@ -45,6 +45,6 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
 
 ## 📺 Tutorials and PPT
 - Post-hoc counterfactual generation with supervised autoencoder [[ppt](https://project.inria.fr/aimlai/files/2021/09/XAI_ECML-final.pdf)]
-
+- If Only We Had Better Counterfactual Explanations: Five Key Deficits to Rectify in the Evaluation of Counterfactual XAI Techniques [[paper](https://arxiv.org/pdf/2103.01035.pdf)]
 ## 👩‍🏫 Interdisciplinary Works Towards CFX
 - Adquate and Fair Explanations [[paper](https://arxiv.org/abs/2001.07578)]

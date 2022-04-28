@@ -13,6 +13,8 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
 ## 📚 Survey paper
 - (arthur.ai) Counterfactual Explanations for Machine Learning: A Review [[paper](https://arxiv.org/pdf/2010.10596.pdf)][[ppt](https://vsahil.github.io/publication/counterfactual-survey/slides_full_cfe_review.pdf)]
   - Evaluation of Counterfactual Generation Algorithms [[Google Sheet](https://docs.google.com/spreadsheets/d/15V7NOZQh4LQMkglLHtPvgcEQf_yaGNCfQHwG1zOFCz4/edit#gid=0)]
+- Benchmarking and Survey of Explanation Methods for Black Box Models [[paper](https://arxiv.org/pdf/2102.13076.pdf)]
+
 
 ## 💡 Methods and works for different models
 ### Model-Agnostic Methods
@@ -22,7 +24,7 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
   - Genetic algorithm 
 - CFRL by Seldon Alibi [[example code](https://docs.seldon.io/projects/alibi/en/latest/examples/cfrl_adult.html)] [[doc](https://docs.seldon.io/projects/alibi/en/latest/methods/CFRL.html)]
   - 🔥 Model-agnostic and Scalable Counterfactual Explanations via Reinforcement Learning [[paper](https://arxiv.org/pdf/2106.02597.pdf)]
-#### Liz's Reading list (so far)
+#### Liz's Reading list (tba)
 - (Nips 2021) Designing Counterfactual Generators using Deep Model Inversion [[paper](https://proceedings.neurips.cc/paper/2021/file/8ca01ea920679a0fe3728441494041b9-Paper.pdf)]
   - No need training data 
 - (Nips 2021) Towards Robust and Reliable Algorithmic Recourse [[paper](https://proceedings.neurips.cc/paper/2021/file/8ccfb1140664a5fa63177fb6e07352f0-Paper.pdf)]
@@ -36,6 +38,9 @@ CFX (CounterFactual eXplanation) is a popular method for model explanation. It i
   -  Reinforcement learning
 - (AAAI 2022) Diverse, Global and Amortised Counterfactual Explanations for Uncertainty Estimates [[paper](https://arxiv.org/abs/2112.02646)]
 
+🥶 on-going
+- (PMLR 2020) Model-Agnostic Counterfactual Explanations for Consequential Decisions [[paper](https://proceedings.mlr.press/v108/karimi20a.html)] [source code](https://github.com/amirhk/mace)]
+- (FAT 2020) The Hidden Assumptions Behind Counterfactual Explanations and Principal Reasons [[paper](https://dl.acm.org/doi/pdf/10.1145/3351095.3372830)]
 ### Gradient-Based Methods
 - CounterFactual (by Seldon Alibi) [[example code](https://docs.seldon.io/projects/alibi/en/latest/examples/cf_mnist.html)] [[doc](https://docs.seldon.io/projects/alibi/en/latest/methods/CF.html)]
   - Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR [[paper](https://arxiv.org/abs/1711.00399)] 
